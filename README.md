@@ -29,7 +29,7 @@ I’m a passionate Computer Engineering graduate from the Federal University of 
 
 ## 🏆 Achievements
 
-- 🌟 Completed AI Career Essentials at @ALX_Africa
+- 🌟 Completed AI Career Essentials at ALX_Africa
 
 ## 📬 Get in Touch
 
