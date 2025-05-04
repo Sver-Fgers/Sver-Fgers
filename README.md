@@ -2,7 +2,7 @@ Hi, I'm Victor John Nanmwa! 👋
 
 I’m a passionate Computer Engineering graduate from the Federal University of Technology, Minna, with a focus on embedded systems and software development. I enjoy building hardware-software solutions, exploring system-level programming, and learning how tech can create real-world impact.
 
-![Sver-Fger's Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Sver-Fgers's Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@ I’m a passionate Computer Engineering graduate from the Federal University of 
 - ✨ Currently learning frontend & backend engineering to bridge hardware and user applications.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,py,arduino,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,py,arduino)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
